@@ -29,7 +29,6 @@ public class taskNumber25 {
         System.out.print("Array invertito: ");
         for (int i = arrayOfNumbers.length - 1; i > 0; i--)
             System.out.print(arrayOfNumbers[i] + " ");
-
     }
 }
 
