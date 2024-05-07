@@ -13,5 +13,6 @@ public class taskNumber17 {
         }
     }
 }
+
 // Esercizio 17
 // Scrivi un programma in Java per visualizzare i primi 10 numeri naturali.
